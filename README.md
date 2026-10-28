@@ -4,8 +4,8 @@ Projeto de Jogo da Velha desenvolvido com **HTML, CSS e JavaScript**, com suport
 
 ## 📑 Sumário
 
-- [Sobre o projeto](#-sobre-o-projeto)
-- [Funcionalidades](#-funcionalidades)
+- [Sobre o projeto](#🎯-sobre-o-projeto)
+- [Funcionalidades](#✨-funcionalidades)
 - [Algoritmos e dificuldades](#-algoritmos-e-dificuldades)
 - [Estrutura do projeto](#-estrutura-do-projeto)
 - [Telas do jogo](#-telas-do-jogo)
@@ -92,4 +92,4 @@ Não é necessário instalar dependências, desde que o projeto utilize apenas H
 
 - **HTML:** estrutura da aplicação.
 - **CSS:** estilização e layout responsivo, conforme implementado.
-- **JavaScript:** regras do jogo, interação com a interface e lógica da inteligência artificial.<img width="1205" height="729" alt="Captura de tela 2026-10-28 194223" src="https://github.com/user-attachments/assets/5e38a5c0-7f88-4b06-b972-9fff02ac9ceb" />
+- **JavaScript:** regras do jogo, interação com a interface e lógica da inteligência artificial
